@@ -78,11 +78,3 @@ I'm a **Full-Stack Developer** at **Yavar Techworks**, Coimbatore 🇮🇳 — I
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.&author=Cory+House" width="80%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0a3d62,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
