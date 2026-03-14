@@ -65,14 +65,6 @@ I enjoy designing **clean architectures, efficient backend systems, and intuitiv
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gibson-Joseph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF&hide_border=true&custom_title=Gibson's%20Contribution%20Graph" width="97%"/>
-
-</div>
-
 ---
 
 # 🤝 Let's Build Something Together
