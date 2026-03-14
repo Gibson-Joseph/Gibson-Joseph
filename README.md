@@ -15,7 +15,49 @@
 
 ---
 
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a3d62,100:0D1117&height=2&width=100%"/>
+</div>
+
 <table>
+<tr>
+<td valign="middle" width="58%">
+
+<h2>Hey, I'm Gibson 👋</h2>
+
+I'm a **Full-Stack Developer** at **Yavar Techworks**, Coimbatore 🇮🇳 — I design and build end-to-end web applications that are fast, scalable, and actually enjoyable to use.
+
+On the **frontend**, I craft clean, responsive UIs with React, Next.js & Tailwind CSS.
+On the **backend**, I architect REST APIs and data layers with Node.js, Express & databases like MongoDB and MySQL.
+
+Currently leveling up in **System Design & Cloud Architecture** ☁️
+
+- 🔭 &nbsp;Building production-grade full-stack apps
+- 🌱 &nbsp;Exploring Docker, Kubernetes & distributed systems
+- 🛠️ &nbsp;Vim + Neovim user. Linux native.
+- ✍️ &nbsp;Writing about web dev on [Medium](https://medium.com/@gibsonjoseph890)
+- 🤝 &nbsp;Open to collaborations & freelance work
+
+</td>
+<td valign="middle" width="42%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Gibson-Joseph&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=C9D1D9&hide_title=true&rank_icon=percentile&include_all_commits=true" width="100%"/>
+
+<br/>
+
+![Coimbatore](https://img.shields.io/badge/📍_Coimbatore,_India-0D1117?style=flat-square&logoColor=white)
+![Company](https://img.shields.io/badge/🏢_Yavar_Techworks-0a3d62?style=flat-square&logoColor=white)
+![Status](https://img.shields.io/badge/🟢_Open_to_Collaborate-0D3B1F?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+
+
+<!-- <table>
 <tr>
 <td valign="top" width="55%">
 
@@ -47,7 +89,7 @@ const gibson = {
 
 </td>
 </tr>
-</table>
+</table> -->
 
 ---
 
