@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=650&lines=I+turn+ideas+into+production-ready+apps+%F0%9F%9A%80;React+%2B+Next.js+%2B+Node.js+%2B+TypeScript;Building+for+the+web+%E2%80%94+one+component+at+a+time;Clean+architecture.+Scalable+systems.+Great+UX." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Full+Stack+Developer+%7C+Building+End-to-End+Applications+%F0%9F%9A%80;React+%2B+Next.js+%2B+Node.js+%2B+Python+%2B+TypeScript;Designing+Scalable+Systems+%26+Clean+Architecture;From+UI+to+Infrastructure+%7C+Docker+%2B+Kubernetes+%2B+Linux;Crafting+Great+UX+%2C+Robust+APIs+%2C+and+Reliable+Backends." alt="Typing SVG" />
 
 <br/>
 
