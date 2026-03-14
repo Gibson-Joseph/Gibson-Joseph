@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a3d62,100:00D9FF&height=200&section=header&text=Gibson%20Joseph&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Coimbatore%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a3d62,100:00D9FF&height=200&section=header&text=Gibson%20Joseph&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Coimbatore%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Full+Stack+Developer+%7C+Building+End-to-End+Applications+%F0%9F%9A%80;React+%2B+Next.js+%2B+Node.js+%2B+Python+%2B+TypeScript;Designing+Scalable+Systems+%26+Clean+Architecture;From+UI+to+Infrastructure+%7C+Docker+%2B+Kubernetes+%2B+Linux;Crafting+Great+UX+%2C+Robust+APIs+%2C+and+Reliable+Backends." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Full+Stack+Engineer+%7C+Building+End-to-End+Applications+%F0%9F%9A%80;React+%2B+Next.js+%2B+Node.js+%2B+Python+%2B+TypeScript;Designing+Scalable+Systems+%26+Clean+Architecture;From+UI+to+Infrastructure+%7C+Docker+%2B+Kubernetes+%2B+Linux" alt="Typing SVG" />
 
 <br/>
 
@@ -15,11 +15,23 @@
 
 ---
 
-I'm a **Full-Stack Developer** at **Yavar Techworks**, Coimbatore 🇮🇳 — I design and build end-to-end web applications that are fast, scalable, and actually enjoyable to use.
+## 👨‍💻 About Me
+
+I'm a **Full-Stack Developer at Yavar Techworks**, Coimbatore 🇮🇳.  
+I build **scalable web platforms, developer-friendly APIs, and high-performance frontends**.
+
+I enjoy designing **clean architectures, efficient backend systems, and intuitive user experiences**.
+
+### ⚡ Focus Areas
+
+- Modern **React & Next.js architectures**
+- Backend APIs with **Node.js & Python**
+- **Containerized deployments** using Docker & Kubernetes
+- **Clean architecture** and maintainable systems
 
 ---
 
-## ⚡ Tech Arsenal
+# ⚡ Tech Arsenal
 
 <div align="center">
 
@@ -33,18 +45,18 @@ I'm a **Full-Stack Developer** at **Yavar Techworks**, Coimbatore 🇮🇳 — I
 
 | 🛠️ Tools & Platforms |
 |:---------------------:|
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 </div>
 
 ---
 
-
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Gibson-Joseph&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=C9D1D9&rank_icon=percentile&include_all_commits=true&count_private=true" height="180" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gibson-Joseph&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" height="180" />
 
 <br/>
@@ -56,19 +68,20 @@ I'm a **Full-Stack Developer** at **Yavar Techworks**, Coimbatore 🇮🇳 — I
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gibson-Joseph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF&hide_border=true&custom_title=Gibson's%20Contribution%20Graph" width="97%"/>
-</div>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gibson-Joseph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF&hide_border=true&custom_title=Gibson's%20Contribution%20Graph" width="97%"/>
+
+</div>
 
 ---
 
-## 🤝 Let's Build Something Together
+# 🤝 Let's Build Something Together
 
 <div align="center">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
 
-**I'm always open to connecting with fellow developers, collaborating on projects, or just geeking out about tech.**
+**I'm always open to collaborating on interesting projects, sharing ideas, and connecting with developers.**
 
 <br/>
 
