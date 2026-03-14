@@ -82,7 +82,7 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
@@ -330,8 +330,297 @@ const gibson = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
+</div> -->
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Gibson%20Joseph&fontSize=70&color=0:00ff88,100:00d4ff&stroke=00ff88&strokeWidth=2&fontColor=00ff88&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer%20%7C%20Yavar%20Techworks&descAlignY=75&descSize=16&descColor=888888" />
+
 </div>
 
+<div align="center">
+
+```bash
+┌──(gibson㉿dev)-[~/world]
+└─$ ./introduce_myself.sh
+```
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=650&lines=%24+whoami+%E2%86%92+Full-Stack+Developer+%40+Yavar+Techworks;%24+location+%E2%86%92+Coimbatore%2C+India+%F0%9F%87%AE%F0%9F%87%B3;%24+stack+%E2%86%92+React+%7C+Node.js+%7C+TypeScript+%7C+Tailwind;%24+status+%E2%86%92+Turning+coffee+into+scalable+systems+%E2%98%95;%24+passion+%E2%86%92+Clean+UI+%2B+Robust+Architecture+%F0%9F%9A%80;%24+motto+%E2%86%92+Ship+fast.+Iterate+faster.+Break+nothing." alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/%E2%96%B6_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/gibson-joseph-05988b239/)
+[![Medium](https://img.shields.io/badge/%E2%96%B6_Blog-00AB6C?style=for-the-badge&logo=medium&logoColor=white&labelColor=0D1117)](https://medium.com/@gibsonjoseph890)
+[![GitHub](https://img.shields.io/badge/%E2%96%B6_GitHub-00FF88?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Gibson-Joseph)
+[![Views](https://komarev.com/ghpvc/?username=Gibson-Joseph&label=%E2%96%B6+VISITORS&color=00ff88&style=for-the-badge&labelColor=0D1117)](https://github.com/Gibson-Joseph)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+ ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗
+ ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝
+ ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗  
+ ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝  
+ ██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗
+ ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝
+```
+
+</div>
+
+```json
+{
+  "operator"     : "Gibson Joseph",
+  "clearance"    : "Full-Stack Engineer",
+  "base"         : "Yavar Techworks, Coimbatore IN",
+  "primary_lang" : ["TypeScript", "JavaScript"],
+  "weapons"      : ["React", "Node.js", "Next.js", "Tailwind CSS"],
+  "databases"    : ["MongoDB", "MySQL", "PostgreSQL"],
+  "deployment"   : ["Vercel", "GitHub Actions", "Docker"],
+  "side_mission" : "Writing dev articles on Medium",
+  "weakness"     : "Unstyled UIs and console.log still in prod",
+  "superpower"   : "Turning Figma mockups into pixel-perfect reality"
+}
+```
+
+---
+
+## ⚡ Arsenal
+
+<div align="center">
+
+### ◈ Frontend
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### ◈ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
+### ◈ Database & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### ◈ Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🗂️ Operations / Featured Projects
+
+<div align="center">
+
+```bash
+┌──(gibson㉿dev)-[~/projects]
+└─$ ls -la --sort=importance
+```
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 [`netflix-clone`](https://github.com/Gibson-Joseph/netflix-clone)
+> Full Netflix UI replica. Responsive design, browsable movie catalog, trailer modals, and authentication flow.
+
+```
+  Lang  : TypeScript
+  UI    : React + Tailwind CSS
+  Auth  : Firebase Auth
+  Data  : TMDB API
+```
+![TypeScript](https://img.shields.io/badge/TS-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### ✈️ [`react-tailwind-travelApp`](https://github.com/Gibson-Joseph/react-tailwind-travelApp)
+> Pixel-perfect travel destination UI. Component-driven architecture, fully responsive, with smooth UX transitions.
+
+```
+  Lang  : TypeScript
+  UI    : React + Tailwind CSS
+  Style : Mobile-first Design
+  Focus : UI/UX Excellence
+```
+![TypeScript](https://img.shields.io/badge/TS-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [`OCR-poc`](https://github.com/Gibson-Joseph/OCR-poc)
+> Proof-of-concept: Optical Character Recognition pipeline. Extract and parse text from uploaded images using JS-based OCR engine.
+
+```
+  Lang  : JavaScript
+  Engine: Tesseract.js OCR
+  Type  : R&D / Exploration
+  Goal  : Real-world AI Integration
+```
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧑‍💻 [`demo-avatar`](https://github.com/Gibson-Joseph/demo-avatar) ⭐⭐
+> Community-starred reusable avatar component. Handles image fallback, initials, size variants, and status indicators.
+
+```
+  Lang  : JavaScript
+  Type  : Reusable Component
+  Stars : ⭐ 2  (community loved)
+  Focus : DX + Reusability
+```
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Intel / GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Gibson-Joseph&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=AAAAAA&ring_color=00FF88&include_all_commits=true&count_private=true" height="180" alt="Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gibson-Joseph&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=AAAAAA&langs_count=8" height="180" alt="Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gibson-Joseph&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00D4FF&currStreakLabel=00FF88&sideLabels=00FF88&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&stroke=00FF88" width="65%" alt="Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gibson-Joseph&bg_color=0D1117&color=00FF88&line=00D4FF&point=00FF88&area=true&area_color=00ff8820&hide_border=true&custom_title=Gibson's%20Contribution%20Timeline" width="98%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+## 🧬 Logs / Coding Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   ████████████████░░░░  72.4%
+JavaScript   ████████░░░░░░░░░░░░  34.1%
+CSS          ████░░░░░░░░░░░░░░░░  16.8%
+HTML         ███░░░░░░░░░░░░░░░░░  12.3%
+JSON         █░░░░░░░░░░░░░░░░░░░   4.2%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## 📡 Transmission / Blog
+
+<div align="center">
+
+```bash
+┌──(gibson㉿dev)-[~/medium]
+└─$ curl -s https://medium.com/@gibsonjoseph890 | grep "latest"
+```
+
+> 📡 Dispatches from the stack — React patterns, Node.js deep dives, TypeScript tips & full-stack architecture.
+>
+> 🔗 **[→ Read on Medium](https://medium.com/@gibsonjoseph890)**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+</div>
+
+---
+
+## 🖥️ Terminal / Connect
+
+<div align="center">
+
+```bash
+┌──(gibson㉿dev)-[~]
+└─$ cat contact.txt
+```
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  🔗  LinkedIn  →  linkedin.com/in/gibson-joseph-05988b239 ║
+║  ✍️   Medium    →  medium.com/@gibsonjoseph890             ║
+║  🐙  GitHub    →  github.com/Gibson-Joseph                ║
+║  🏢  Company   →  Yavar Techworks · Coimbatore, India      ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+┌──(gibson㉿dev)-[~]
+└─$ echo "Thanks for visiting. Now go build something."
+Thanks for visiting. Now go build something.
+
+┌──(gibson㉿dev)-[~]
+└─$ █
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=120&section=footer&animation=twinkling&fontColor=00FF88"/>
+
+</div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gibson-Joseph&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
