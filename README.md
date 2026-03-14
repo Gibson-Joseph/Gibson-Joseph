@@ -69,24 +69,6 @@ const gibson = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🎬 **Netflix Clone** | ✈️ **Travel App** |
-|---|---|
-| <a href="https://github.com/Gibson-Joseph/netflix-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gibson-Joseph&repo=netflix-clone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/></a> | <a href="https://github.com/Gibson-Joseph/react-tailwind-travelApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gibson-Joseph&repo=react-tailwind-travelApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/></a> |
-| Next.js · TypeScript · Tailwind CSS · Firebase | React · TypeScript · Tailwind CSS |
-| 🔗 [Live Demo](https://netflix-clone-three-zeta.vercel.app) | 🔗 [Live Demo](https://react-tailwind-travel-app.vercel.app) |
-
-| 🤖 **OCR POC** | 👤 **Demo Avatar** |
-|---|---|
-| <a href="https://github.com/Gibson-Joseph/OCR-poc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gibson-Joseph&repo=OCR-poc&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/></a> | <a href="https://github.com/Gibson-Joseph/demo-avatar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gibson-Joseph&repo=demo-avatar&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/></a> |
-| JavaScript · Node.js · OCR Engine | JavaScript · React · ⭐ Community Starred |
-
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
@@ -105,43 +87,6 @@ const gibson = {
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gibson-Joseph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF&hide_border=true&custom_title=Gibson's%20Contribution%20Graph" width="97%"/>
-</div>
-
----
-
-## 🌊 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gibson-Joseph/Gibson-Joseph/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gibson-Joseph/Gibson-Joseph/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Gibson-Joseph/Gibson-Joseph/output/github-contribution-grid-snake-dark.svg" width="97%"/>
-</picture>
-
-> ⚙️ **Setup the snake animation:** Add this GitHub Action to `.github/workflows/snake.yml` in your profile repo:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   snake:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: Gibson-Joseph
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
 </div>
 
 ---
