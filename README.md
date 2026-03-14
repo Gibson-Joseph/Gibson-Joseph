@@ -60,10 +60,16 @@ const gibson = {
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,redux&perline=8&theme=dark" />
 
 ### 🔧 Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,prisma&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,prisma&perline=8&theme=dark" />
+
+### ⚙️ DevOps & Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux&perline=8&theme=dark" />
+
+### 🧰 Development Environment
+<img src="https://skillicons.dev/icons?i=vim,neovim&perline=8&theme=dark" />
 
 ### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,figma&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman&perline=8&theme=dark" />
 
 </div>
 
@@ -89,21 +95,6 @@ const gibson = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gibson-Joseph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF&hide_border=true&custom_title=Gibson's%20Contribution%20Graph" width="97%"/>
 </div>
 
----
-
-## ✍️ Latest on Medium
-
-<div align="center">
-
-[![Medium Badge](https://img.shields.io/badge/Read%20My%20Articles%20on-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gibsonjoseph890)
-
-> I write about **React patterns**, **Node.js architecture**, **TypeScript tips**, and real-world full-stack solutions.
-
-<!-- BLOG-POST-LIST:START -->
-📌 *Auto-populate with [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) GitHub Action*
-<!-- BLOG-POST-LIST:END -->
-
-</div>
 
 ---
 
