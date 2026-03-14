@@ -20,7 +20,6 @@
 <td valign="top" width="55%">
 
 ### `> gibson.init()`
-
 ```ts
 const gibson = {
   name     : "Gibson Joseph",
@@ -44,7 +43,7 @@ const gibson = {
 </td>
 <td valign="top" width="45%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif" style="border-radius:12px"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" alt="coding gif"/>
 
 </td>
 </tr>
