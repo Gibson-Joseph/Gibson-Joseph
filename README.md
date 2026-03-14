@@ -76,5 +76,3 @@ I'm a **Full-Stack Developer** at **Yavar Techworks**, Coimbatore 🇮🇳 — I
 [![Medium](https://img.shields.io/badge/Read%20on-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gibsonjoseph890)
 
 </div>
-
----
